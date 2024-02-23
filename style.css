@@ -1,0 +1,39 @@
+#form{
+    text-decoration: dotted;
+    color: blue;
+    margin: 3px 50px;
+    width: 60%;
+    border: solid 2px;
+}
+h1{
+    text-decoration: dashed;
+    color: blue;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    width: 20%;
+
+}
+image{
+
+    margin-right: 20%;
+    z-index: -1;
+    width: 60%;
+    padding: 20px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+#out{
+    display: grid;
+grid-template-columns: 50% 50%;
+border-radius: 5%;
+}
+.input{
+    padding: 14px 12px;
+    border: solid 1px;
+    border-color: lightseagreen;
+    margin: 0 auto;
+}
